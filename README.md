@@ -4,4 +4,4 @@
  ***
  Example: 
  
-![Screenshot_40](https://user-images.githubusercontent.com/57362483/141677464-4a27d65c-3361-434c-9c08-f5fcef467fd7.png)
+![Screenshot_42](https://user-images.githubusercontent.com/57362483/141677624-2b6b931a-3477-4c9a-a548-bd5190f44aac.png)
