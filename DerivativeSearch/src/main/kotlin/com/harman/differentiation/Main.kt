@@ -21,7 +21,7 @@ fun main(args: Array<String>) {
 
     }
 
-    println("f(x) = e^x\nx∈[0, 1] h = 2\n")
+    println("f(x) = e^x\nx∈[0, 1] h = $h\n")
     print("x     ")
     x.forEach { print(String.format("%9.2f", it))}.also { println() }
     print("f(x)  ")
